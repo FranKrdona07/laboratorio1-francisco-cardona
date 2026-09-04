@@ -1,0 +1,16 @@
+Punto más débil de PGP:
+La gestión de las claves, especialmente proteger la clave privada.
+Si alguien la obtiene, puede descifrar mensajes o suplantar al propietario.
+
+¿Cuándo usar solamente cifrado simétrico?
+Cuando las partes ya comparten una clave secreta de forma segura
+y se necesita cifrar grandes cantidades de información rápidamente. Es más rápido que el cifrado asimétrico.
+
+Ciclo de vida del desarrollo de software seguro (SSDLC):
+Requisitos: definir necesidades y requisitos de seguridad.
+Diseño: crear una arquitectura segura y analizar amenazas.
+Desarrollo: programar siguiendo prácticas de código seguro.
+Pruebas: buscar vulnerabilidades y comprobar los controles de seguridad.
+Implementación: desplegar y configurar el sistema de forma segura.
+Mantenimiento: actualizar, parchear y monitorear vulnerabilidades.
+Retiro: eliminar el software y sus datos de manera segura
